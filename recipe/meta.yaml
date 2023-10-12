@@ -1,5 +1,5 @@
 {% set name = "pygtc" %}
-{% set version = "0.4.1" %}
+{% set version = "0.5.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pyGTC-{{ version }}.tar.gz
-  sha256: ac01463d7c3916418afcfcdee8a6d4875034200d961f95abf54d767515a798f4
+  sha256: 179dd20e99142bb2f351c64d2a5b0a4c9d5e6245c746888cd406e1c0aaf79400
 
 build:
   number: 0
