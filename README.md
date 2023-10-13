@@ -1,11 +1,11 @@
-About pygtc
-===========
+About pygtc-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pygtc-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/sebastianbocquet/pygtc
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pygtc-feedstock/blob/master/LICENSE.txt)
 
 Summary: Make an awesome giant triangle confusogram (gtc)!
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11579&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pygtc-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11579&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pygtc-feedstock?branchName=main">
       </a>
     </td>
   </tr>
