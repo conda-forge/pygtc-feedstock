@@ -20,8 +20,8 @@ requirements:
     - pip
     - python
   run:
-    - matplotlib-base >=1.5.3
-    - numpy >=1.5
+    - matplotlib-base >=2.2.0
+    - numpy >=1.7.1
     - packaging
     - python >=2.7,<3.0|>=3.6,<4.0
 
